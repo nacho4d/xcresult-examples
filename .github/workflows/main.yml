@@ -25,4 +25,4 @@ jobs:
       - name: Building all projects
         run: |
           echo Building all projects...
-          ./buildAll
+          ./buildAll.sh
