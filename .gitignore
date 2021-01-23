@@ -34,3 +34,6 @@ playground.xcworkspace
 # .swiftpm
 
 .build/
+
+# XCTestHTMLReport stuff
+index.html
