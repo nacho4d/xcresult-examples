@@ -1,23 +1,21 @@
+# Finder
+.DS_Store
+
 # Xcode
-
-## User settings
 xcuserdata/
-
-## compatibility with Xcode 8 and earlier (ignoring not required starting Xcode 9)
+## Xcode8 and earlier
 *.xcscmblueprint
 *.xccheckout
-
-## compatibility with Xcode 3 and earlier (ignoring not required starting Xcode 4)
+## Xcode 3 and earlier
 build/
 DerivedData/
-
 ## Obj-C/Swift specific
 *.hmap
-
-## App packaging
+## Xcode generated files
 *.ipa
 *.dSYM.zip
 *.dSYM
+*.xcresult
 
 ## Playgrounds
 timeline.xctimeline
